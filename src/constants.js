@@ -43,7 +43,7 @@ import LeksaLogo from './assets/company_logo/leksa_logo.png';
 // Education Section Logo's
 import nitteLogo from './assets/education_logo/nitte_logo.png';
 import snmpLogo from './assets/education_logo/snmp_logo.png';
-import jnhsLogo from './assets/education_logo/jnhs_logo.png';
+import jnhsLogo from './assets/education_logo/JNHS_LOGO.png';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
