@@ -33,6 +33,9 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 
+//Profile Photo
+import profilePhoto from './assets/Profile2.png';
+
 // Experience Section Logo's
 import boschLogo from './assets/company_logo/bosch_logo.png';
 import LeksaLogo from './assets/company_logo/leksa_logo.png';
