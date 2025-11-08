@@ -41,6 +41,7 @@ const Contact = () => {
             pauseOnHover: true,
             draggable: true,
             theme: "dark",
+            
           });
         }
       );
